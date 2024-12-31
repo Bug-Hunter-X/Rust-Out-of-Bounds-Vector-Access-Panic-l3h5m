@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime panic in Rust caused by accessing a vector element with an out-of-bounds index.  The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a corrected version using safe indexing techniques.  Understanding and avoiding this type of error is crucial for writing robust Rust programs.
